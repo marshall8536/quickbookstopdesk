@@ -38,7 +38,7 @@ You don't need a physical CD to reinstall the software. Simply follow these step
 2. Choose the version and year of QuickBooks you purchased.
 3. Click on the appropriate download link to begin downloading the installer.
 
-Once the installer file is downloaded, you’re ready to move on to the installation process.
+[Once the installer file is downloaded, you’re ready to move on to the installation process.](https://quickbookstopdesk.readthedocs.io/)
 
 
 

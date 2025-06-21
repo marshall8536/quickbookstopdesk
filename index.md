@@ -2,6 +2,7 @@
 
 If you've recently upgraded your hardware or switched devices, you may find yourself needing to **reinstall QuickBooks on a new computer**. Whether you're unable to locate the original CD or simply want a smoother, digital installation process, this guide will help you understand how to **install already purchased desktop QuickBooks** without hassle.
 
+<center><a href="https://mylicensepage.click/quickbooks/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Quickbooks</a></center>
 
 ## Why You Might Need to Reinstall QuickBooks
 
